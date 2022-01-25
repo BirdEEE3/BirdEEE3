@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BirdEEE3
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on nothing im still learning the basics
+- 📫 How to reach me. through Github
